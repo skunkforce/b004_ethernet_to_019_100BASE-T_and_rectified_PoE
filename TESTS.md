@@ -1,12 +1,8 @@
-# test 1
+# communication test
 ## setup
-Describe your test setup
+connect to b078 or similar ethernet phy and communicate with another ethernet device over a network.
 ## results
-Describe your results
+untested
 
 
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+
