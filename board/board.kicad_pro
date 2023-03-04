@@ -55,7 +55,14 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|145472000|90000000|27e41039-2f3e-4e07-a478-aa153958a745|7b7c9b88-c073-4bad-b08b-cdaf30214485",
+        "silk_over_copper|145472000|90000000|27e41039-2f3e-4e07-a478-aa153958a745|d0483b12-623a-417d-9a91-82ea62ca6c16",
+        "silk_over_copper|156900000|108144000|2e3ade83-bdd8-4f5d-bc63-85313c4a44ae|1c244a47-dfc7-410f-bb40-fef6c0616c34",
+        "silk_over_copper|156900000|108144000|7adc6fda-0169-4b9e-9126-f6831ee50a97|c73ae57b-ba45-4431-8e4b-dd610eee3244",
+        "silk_over_copper|161000000|108144000|827e93cb-b225-4d8d-897a-5a9545715349|2e3ade83-bdd8-4f5d-bc63-85313c4a44ae",
+        "silk_over_copper|161000000|108144000|827e93cb-b225-4d8d-897a-5a9545715349|7adc6fda-0169-4b9e-9126-f6831ee50a97"
+      ],
       "meta": {
         "version": 2
       },
@@ -437,7 +444,7 @@
     ],
     [
       "767ce4c6-0e55-4543-92f0-34cb8237a544",
-      "implementation"
+      "eth_conn"
     ]
   ],
   "text_variables": {}
