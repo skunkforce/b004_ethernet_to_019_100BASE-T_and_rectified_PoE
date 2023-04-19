@@ -1,12 +1,14 @@
-# test 1
+# communication test
 ## setup
-Describe your test setup
+connect to b078 or similar ethernet phy and communicate with another ethernet device over a network.
 ## results
-Describe your results
+untested
+
+# PoE test
+## setup
+connect standard PoE switch to b004 to b052 with a 100R resistor across pinns 1 and 10 of J2
+## resutlts
+PoE initializes and holds connection.
 
 
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+
